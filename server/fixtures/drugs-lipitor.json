@@ -1,0 +1,30 @@
+{
+  "drugGroup": {
+    "name": null,
+    "conceptGroup": [
+      {
+        "tty": "SBD",
+        "conceptProperties": [
+          {
+            "rxcui": "617314",
+            "name": "atorvastatin 20 MG Oral Tablet [Lipitor]",
+            "synonym": "Lipitor 20 MG Oral Tablet",
+            "tty": "SBD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          },
+          {
+            "rxcui": "617312",
+            "name": "atorvastatin 40 MG Oral Tablet [Lipitor]",
+            "synonym": "Lipitor 40 MG Oral Tablet",
+            "tty": "SBD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}

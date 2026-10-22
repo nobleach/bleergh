@@ -1,0 +1,77 @@
+{
+  "drugGroup": {
+    "name": null,
+    "conceptGroup": [
+      {
+        "tty": "BPCK"
+      },
+      {
+        "tty": "GPCK"
+      },
+      {
+        "tty": "SBD",
+        "conceptProperties": [
+          {
+            "rxcui": "861007",
+            "name": "metFORMIN hydrochloride 500 MG Oral Tablet [Glucophage]",
+            "synonym": "Glucophage 500 MG Oral Tablet",
+            "tty": "SBD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          },
+          {
+            "rxcui": "861010",
+            "name": "metFORMIN hydrochloride 850 MG Oral Tablet [Glucophage]",
+            "synonym": "Glucophage 850 MG Oral Tablet",
+            "tty": "SBD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          },
+          {
+            "rxcui": "861763",
+            "name": "metFORMIN hydrochloride 500 MG Extended Release Oral Tablet [Glucophage]",
+            "synonym": "Glucophage XR 500 MG Extended Release Oral Tablet",
+            "tty": "SBD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      },
+      {
+        "tty": "SCD",
+        "conceptProperties": [
+          {
+            "rxcui": "861004",
+            "name": "metFORMIN hydrochloride 500 MG Oral Tablet",
+            "synonym": "",
+            "tty": "SCD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          },
+          {
+            "rxcui": "861008",
+            "name": "metFORMIN hydrochloride 850 MG Oral Tablet",
+            "synonym": "",
+            "tty": "SCD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          },
+          {
+            "rxcui": "860975",
+            "name": "24 HR metFORMIN hydrochloride 500 MG Extended Release Oral Tablet",
+            "synonym": "",
+            "tty": "SCD",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}
